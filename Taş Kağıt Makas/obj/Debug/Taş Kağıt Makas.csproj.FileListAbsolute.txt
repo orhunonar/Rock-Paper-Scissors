@@ -1,0 +1,19 @@
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe.config
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.csprojResolveAssemblyReference.cache
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş_Kağıt_Makas.Form1.resources
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.exe
+c:\users\murat yeni\documents\visual studio 2015\Projects\Taş Kağıt Makas\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.pdb
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe.config
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.exe
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\bin\Debug\Taş Kağıt Makas.pdb
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.csprojResolveAssemblyReference.cache
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş_Kağıt_Makas.Form1.resources
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş_Kağıt_Makas.Properties.Resources.resources
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.csproj.GenerateResource.Cache
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.exe
+C:\Users\Orhun\source\repos\Taş Kağıt Makas\obj\Debug\Taş Kağıt Makas.pdb
